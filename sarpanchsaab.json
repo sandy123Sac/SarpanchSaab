@@ -30,6 +30,14 @@
     "expirydate": "12-03-2026",
     "key": "Digital1234",
     "user": "digital world"
-  }
+  },
 
+   {
+    "Allowoffline": false,
+    "device_id": "62125808cfed5157",
+    "expirydate": "11-04-2026",
+    "key": "Boss",
+    "user": "Digital"
+  }
+  
 ]
